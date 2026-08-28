@@ -1,0 +1,1 @@
+# afk-script-for-games-in-python
