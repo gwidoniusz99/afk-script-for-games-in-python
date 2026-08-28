@@ -13,3 +13,6 @@ the script clicks the buttons for you and moves the character in a random direct
 
 ### when you want to stop the script just close the open cmd window or switch to it and use ctrl + c
 ### when you want to run the script use start.bat
+
+### games I tested it on: 
+Minecraft, Roblox
