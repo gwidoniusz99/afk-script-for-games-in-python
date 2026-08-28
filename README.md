@@ -11,5 +11,5 @@ the script clicks the buttons for you and moves the character in a random direct
 2. download the afk.py script, requirements.txt and start.bat and place them in one folder
 3. run start.bat , switch to window when and you're done!
 
-** when you want to stop the script just close the open cmd window or switch to it and use ctrl + c **
-** when you want to run the script use start.bat **
+###cwhen you want to stop the script just close the open cmd window or switch to it and use ctrl + c
+### when you want to run the script use start.bat
