@@ -4,7 +4,7 @@
 ### The script should work in any version of python, the version I tested it on is python 3.10.6
 
 ## how it works:
-the script clicks the buttons for you and moves the character in a random direction
+the script clicks the buttons (w,a,a,d, you can add your buttons by editing afk.py) for you and moves the character in a random direction, __therefore the game window must be open all the time and you cannot change it to another one__ (that's why it's best if you leave it overnight)
 
 ## How to use:
 1. download and install any version of python
